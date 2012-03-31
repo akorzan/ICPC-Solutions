@@ -1,0 +1,19 @@
+2
+Amanda Green 220.6 162.5
+Paula Orange 212.0 155.1
+Eduardo Orange 240.9 170.1
+Ernesto Green 320.9 231.0
+6
+Carlos White 243.9 176.8
+Kandy Red 275.7 208.2
+Amanda Green 220.6 162.5
+Paula Orange 212.0 155.1
+Fred Brown 300.9 210.7
+Nadia Pink 217.8 155.9
+Ray Red 254.8 166.2
+Curtis White 321.1 216.2
+Adrian Brown 284.6 201.2
+Kara Pink 233.1 176.6
+Eduardo Orange 240.9 170.1
+Ernesto Green 320.9 231.0
+0

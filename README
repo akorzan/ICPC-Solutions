@@ -1,0 +1,8 @@
+Compile:
+gcc -o weightloss weightloss.c -lm
+
+To Run:
+cat weightlossdata.txt | ./weightloss
+
+Written by Anthony Korzan and Andrew Hirsch
+2012
